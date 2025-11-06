@@ -1,0 +1,2 @@
+rootProject.name = 'GameVisionPrototype'
+include ':app'
